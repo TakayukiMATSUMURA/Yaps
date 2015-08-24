@@ -84,5 +84,5 @@ from [glibc](https://sourceware.org/git/?p=glibc.git;a=summary)
 
 /loader/simloader.h  
 /loader/simloader.cc  
-/MIPS/instructions/others/SystemCallExecutor.h  
+/MIPS/SystemCallExecutor.h  
 from [SimMips](http://www.arch.cs.titech.ac.jp/SimMips/)
