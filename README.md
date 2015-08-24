@@ -79,10 +79,10 @@ It is aimed at simulating various ISAs and Microarchitectures
 ## Annotation
 The Followings are modified and redistributed.
 
-/loader/elf.h    
+[/loader/elf.h](https://github.com/TakayukiMATSUMURA/Yaps/blob/master/loader/elf.h)  
 from [glibc](https://sourceware.org/git/?p=glibc.git;a=summary)  
 
-/loader/simloader.h  
-/loader/simloader.cc  
-/MIPS/SystemCallExecutor.h  
+[/loader/simloader.h](https://github.com/TakayukiMATSUMURA/Yaps/blob/master/loader/simloader.h)  
+[/loader/simloader.cc](https://github.com/TakayukiMATSUMURA/Yaps/blob/master/loader/simloader.cc)  
+[/MIPS/SystemCallExecutor.h](https://github.com/TakayukiMATSUMURA/Yaps/blob/master/MIPS/SystemCallExecutor.h)  
 from [SimMips](http://www.arch.cs.titech.ac.jp/SimMips/)
