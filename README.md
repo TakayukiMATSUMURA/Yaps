@@ -1,6 +1,6 @@
 # Yaps: Yet another processor simulator
 A processor simulator, which is designed for readability and scalability rather than execution speed.  
-It is aimed at simulating various ISAs and Microarchitectures
+It is aimed at simulating various ISAs and Microarchitectures.
 
 ## Install
     $ git clone git://github.com/TakayukiMATSUMURA/yaps  
