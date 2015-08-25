@@ -15,7 +15,7 @@ It is aimed at simulating various ISAs and Microarchitectures.
     $ make  
     g++ -std=c++11 -O3 -o Yaps main.cc loader/simloader.cc MIPS/ISA.cc MIPS/RegisterFile.cc  
     ./Yaps  
-    Yaps: Yet Another Processor Simulator  
+    Yaps: Yet another processor simulator  
     usage: Yaps [options] binaryFileName  
     options  
      -e [num][kmg]: stop simulation after num cycles executed  

@@ -45,7 +45,7 @@ public:
     std::string binaryFileName () const {return binaryFileName_;}
     
     void showIntroduction () const {
-        std::cout << "Yaps: Yet Another Processor Simulator" << std::endl;
+        std::cout << "Yaps: Yet another processor simulator" << std::endl;
     }
 
     void showUsages () override {
