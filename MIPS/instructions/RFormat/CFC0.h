@@ -32,7 +32,7 @@ public:
     /// Destructor
     virtual ~CFC0 () {};
     
-    void execute () {
+    void execute () override {
         result_ = 0;
     }
     

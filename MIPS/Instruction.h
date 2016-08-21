@@ -45,9 +45,6 @@ public:
     // Destructor
     virtual ~Instruction () {};
     
-    virtual std::string mnemonic () const = 0;
-    virtual int opcode () const = 0;
-    
     void fetchOperandsFrom (Yaps::RegisterFile* regFile) override {
         rs_.getValueFrom(regFile);
         rt_.getValueFrom(regFile);

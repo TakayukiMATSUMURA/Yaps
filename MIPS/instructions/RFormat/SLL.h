@@ -64,7 +64,7 @@ public:
         return result;
     }
     
-    bool isNop () const {
+    bool isNop () const override {
         return mnemonic() == std::string("nop");
     }
 };
